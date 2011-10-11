@@ -1,3 +1,3 @@
-module ClearSessions
+module CleanupSessions
   VERSION = "0.0.1"
 end
