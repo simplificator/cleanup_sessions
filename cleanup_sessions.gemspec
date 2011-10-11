@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = CleanupSessions::VERSION
   s.authors     = ["Krzysztof Sakwerda"]
   s.email       = ["ksakwerda@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/simplificator/cleanup_sessions"
   s.summary     = "Session cleaner for rails applications"
   s.description = "It adds cleanup:sessions task to your rake tasks which deletes sessions older than a month"
 
